@@ -1,0 +1,18 @@
+h1{
+  text-align:center;
+}
+body{
+  background-color:green;
+}
+div{
+  margin-top:15px;
+}
+.imagesection{
+  display:flex;
+  justify-content:center;
+}
+.image{
+  margin-right:25px;
+margin-left:25px;
+  background-color:white;
+}
